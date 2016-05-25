@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/phani05353/Gulp-web/issues"
   },
-  "homepage": "https://github.com/phani05353/Gulp-web#readme"
+  "homepage": "https://github.com/phani05353/Gulp-web#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^1.5.3"
+  },
+  "dependencies": {
+    "static-server": "^2.0.0"
+  }
 }
